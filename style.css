@@ -1,3 +1,6 @@
-h1, h2 {
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+h1,
+h2 {
   font-family: Lato;
 }
